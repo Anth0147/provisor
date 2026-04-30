@@ -1,0 +1,8 @@
+playwright
+opencv-python
+numpy
+pytesseract
+tqdm
+psutil
+psycopg2-binary
+python-dotenv
